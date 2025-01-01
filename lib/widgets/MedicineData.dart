@@ -28,7 +28,7 @@ class MedicineData {
       'imagePath': 'images/trupred_drop.png',
       'title': 'Trupred',
       'information':
-          '3 times a day (6hrs gap) in right eye starting at 09:00 AM',
+          '3 times a day (6hrs gap) in both eyes starting at 09:00 AM',
       'highlight': 'Mandatory',
       'takeTimes': [9, 15, 21],
     },
